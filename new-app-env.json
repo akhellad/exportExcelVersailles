@@ -1,7 +1,0 @@
-{ 
-    "clientID": "8993b267-820e-4aef-851a-62158ddef76b",
-    "tenantID": "df152455-73df-41a9-b48e-7fb075739495",
-    "environmentURI": "https://org410028be.crm12.dynamics.com/",
-    "authorityBase": "https://login.microsoftonline.com/",
-    "scopeSuffix": "user_impersonation"
-}
